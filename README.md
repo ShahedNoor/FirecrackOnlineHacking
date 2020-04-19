@@ -36,7 +36,8 @@ more tools: :point_down:<br>
 * `pkg install python2`
 * `pkg install git`
 * `git clone https://github.com/AdminOnlineHacking/FB-Firecrack`
-* `cd FB-Firecrack-OnlineHacking`
+* `cd FirecrackOnlineHacking`
+* `chmod +x firecrack.py`
 * `pip2 install -r requirements.txt`
 * `python2 firecrack.py`
 * `help`
@@ -46,7 +47,8 @@ more tools: :point_down:<br>
 * `apt-get install python-pip`
 * `apt-get install git`
 * `git clone https://github.com/AdminOnlineHacking/FB-Firecrack`
-* `cd FB-Firecrack-OnlineHacking`
+* `cd FirecrackOnlineHacking`
+* `chmod +x firecrack.py`
 * `pip install -r requirements.txt`
 * `python firecrack.py`
 * `help`

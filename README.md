@@ -35,7 +35,7 @@ more tools: :point_down:<br>
 **Termux:**
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/AdminOnlineHacking/FirecrackOnlineHacking`
+* `git clone https://github.com/OnlineHacking/FirecrackOnlineHacking`
 * `cd FirecrackOnlineHacking`
 * `chmod +x firecrack.py`
 * `pip2 install -r requirements.txt`
@@ -46,7 +46,7 @@ more tools: :point_down:<br>
 * `apt-get install python`
 * `apt-get install python-pip`
 * `apt-get install git`
-* `git clone https://github.com/AdminOnlineHacking/FirecrackOnlineHacking`
+* `git clone https://github.com/OnlineHacking/FirecrackOnlineHacking`
 * `cd FirecrackOnlineHacking`
 * `chmod +x firecrack.py`
 * `pip install -r requirements.txt`

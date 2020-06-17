@@ -62,14 +62,14 @@ NOTE:
 
 **This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool.**
 
-Joining Telegram 
+Joining Social Media Or Youtube.  
 
-Channel:- https://t.me/OnlineHacking
+Youtube Channel:- https://www.youtube.com/channel/UCIXobCPf8An4fXHr_fuXRgg
 
-Group:- https://t.me/OnlineHacking0
+Facebook Group:- https://www.facebook.com/groups/736426820203523/?ref=share
 
                                               Inspired By github.com/AdminOnlineHacking
 
 # support me
 
-<a href="https://t.me/OnlineHacking"><img src="https://img.shields.io/badge/telegram-Ms.Suman || OnlineHacking-blue.svg">
+<a href="https://www.youtube.com/channel/UCIXobCPf8An4fXHr_fuXRgg"><img src="https://img.shields.io/badge/Youtube-Cyber Noor || OnlineHacking-blue.svg">
